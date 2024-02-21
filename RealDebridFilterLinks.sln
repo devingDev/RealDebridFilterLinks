@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealDebridFilterLinks", "RealDebridFilterLinks\RealDebridFilterLinks.csproj", "{D091EA57-3401-46CA-A0D8-9A6CC4F2EA1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D091EA57-3401-46CA-A0D8-9A6CC4F2EA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D091EA57-3401-46CA-A0D8-9A6CC4F2EA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D091EA57-3401-46CA-A0D8-9A6CC4F2EA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D091EA57-3401-46CA-A0D8-9A6CC4F2EA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AD12E92-8C28-42AC-A8A4-8D4FADF6C16F}
+	EndGlobalSection
+EndGlobal
